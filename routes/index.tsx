@@ -6,6 +6,7 @@ import Counter from "../islands/Counter.tsx";
 export default function Home() {
   return (
     <div class={tw`p-4 mx-auto max-w-screen-md`}>
+      <img src="favpng_lions-clubs.png" alt="lions club hero image"></img>
       <img
         src="/logo.svg"
         height="100px"
